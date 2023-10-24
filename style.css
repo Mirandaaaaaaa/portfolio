@@ -1,0 +1,159 @@
+
+
+
+.asdf{
+    text-align: right;
+    font-size: 50px;
+    position: absolute;
+    top: 140px;
+    right: 220px;
+    font-family: Arial, sans-serif;
+    color: #8e39df;
+    font-weight: 1000;
+}
+
+.asd h1{
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+}
+.asd p{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+    float: left;
+    margin-right: 500px;
+}
+.image2{
+    margin: 20px;
+    height: 300px;
+    width: 350px;
+    border-radius: 20px;
+    border: 5px solid hsl(0, 0%, 100%);
+    position: absolute;
+    right: 150px;
+    top: 320px;
+}
+
+.asd{
+    background-color: #f9f9f9;
+    margin: 20px;
+    border-radius: 20px;
+    height: 380px;
+}
+
+
+
+
+
+ul {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    gap: 0 80px;
+    font-size: 2rem;
+    margin-right: 50px;
+    list-style: none;
+    font-family: Arial, sans-serif;
+    color: #7d06cc;
+    
+    
+}
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+.ge {
+display:flex
+}
+
+.ge1 {
+flex: 1;
+margin: 20px;
+padding: 20px;
+border: 1px solid #ccc;
+background-color: #f9f9f9;
+background-image: url(shoes\ 1.jpg);
+background-size: cover;
+}
+
+
+.ge2 {
+flex: 1;
+margin: 20px;
+padding: 20px;
+border: 1px solid #ccc;
+background-color: #f9f9f9;
+background-image: url(shoes\ 2.jpg);
+background-size: cover;
+}
+.ge3 {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(shoes\ 3.jpg);
+    background-size: cover;
+    }
+    .ge4 {
+        flex: 1;
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+        background-image: url(shoes\ 4.jpg);
+        background-size: cover;
+        }
+
+img {
+
+border-radius: 50%;
+margin: 20px;
+height: 170px;
+}
+
+body {
+
+background-color: rgb(241, 230, 255);
+}
+
+.gege{
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+
+}
+
+.sige h1{
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+}
+.sige p{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+
+}
+.sige2 h1{
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+}
+.sige2 p{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000000;
+}
